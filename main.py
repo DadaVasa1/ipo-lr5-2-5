@@ -1,5 +1,4 @@
 x = input("Введите строку: ")
-x = x.lower()
 count = 0
 
 for char in x:
